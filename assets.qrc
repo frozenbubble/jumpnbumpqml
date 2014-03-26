@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>assets/dott2.gif</file>
+        <file>assets/fizz2.gif</file>
+        <file>assets/jiffy2.gif</file>
+        <file>assets/mijji2.gif</file>
+    </qresource>
+</RCC>
